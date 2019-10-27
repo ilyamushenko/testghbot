@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(sd;a[d;sadsa]);
+        System.out.println("Test Bot!");
     }
 }
